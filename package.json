@@ -1,0 +1,24 @@
+{
+  "name": "vue-front",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "core-js": "^3.15.1",
+    "element-ui": "^2.15.2",
+    "js-cookie": "^3.0.1",
+    "nuxt": "^2.15.7",
+    "swiper": "^7.3.1",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-qriously": "^1.1.1"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8"
+  }
+}
